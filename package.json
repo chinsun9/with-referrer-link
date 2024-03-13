@@ -1,0 +1,9 @@
+{
+  "name": "with-referrer-link",
+  "version": "1.0.0",
+  "repository": "https://github.com/chinsun9/with-referrer-link.git",
+  "author": "chinsun9 <chin_sung@naver.com>",
+  "scripts": {
+    "deploy": "npx gh-pages -d ."
+  }
+}
